@@ -24,6 +24,8 @@ Raw Data Files (.xlsx) stored in "Crowdfunding_ETL/Resources"
 #### Create the Crowdfunding Database
 
 - <u>crowdfunding_db_schema.sql</u>
+  - Create crowdfunding_db
+    - <img src="Images\crowdfunding_db_create.png" width="1000"/>
   - Create a table schema for each csv file
     - <img src="Images\Table_Schema_all_tables.png" width="1000"/>
   
